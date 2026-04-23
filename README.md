@@ -1,6 +1,6 @@
-# 👋🏽 🧑🏽‍💻 John — Backend Developer | Designing APIs. Solving problems. Shipping systems.
+# 👋🏽  John — Backend Developer |
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Scalable+APIs;Turning+Ideas+Into+Systems;Always+Learning+Always+Shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Designing APIs. Solving problems. Shipping systems.;Building+Scalable+APIs;Turning+Ideas+Into+Systems;Always+Learning+Always+Shipping" />
 </p>
 
 ## ⚙️ About Me  
