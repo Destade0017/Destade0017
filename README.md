@@ -58,8 +58,8 @@
 ---
 
 ## 📫 Let’s Connect  
-📧 your-email@gmail.com  
-🔗 LinkedIn: your-linkedin-link  
+📧 your-destade45@gmail.com  
+🔗 LinkedIn: 
 
 ---
 
