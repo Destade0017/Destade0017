@@ -1,4 +1,4 @@
-# 👋🏽 John — Backend Developer
+# 👋🏽 🧑🏽‍💻 John — Backend Developer | Designing APIs. Solving problems. Shipping systems.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Scalable+APIs;Turning+Ideas+Into+Systems;Always+Learning+Always+Shipping" />
 </p>
@@ -69,7 +69,7 @@ Income/expense tracking with analytics
 
 ## 📫 Let’s Connect  
 📧 your-destade45@gmail.com  
-🔗 LinkedIn: 
+🔗 LinkedIn: http://linkedin.com/in/john-adesuyi-572012348
 
 ---
 
