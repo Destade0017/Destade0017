@@ -15,6 +15,14 @@ I build scalable backend systems and APIs that power real-world applications.
 
 ---
 
+## 💻 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,js,git,github,postman" />
+</p>
+
+
+---
+
 ## 🚀 Selected Projects
 
 🔹 E-commerce Backend API
@@ -39,13 +47,6 @@ Income/expense tracking with analytics
 🗄️ Database Design (MongoDB • PostgreSQL)  
 ⚡ Clean, scalable backend architecture  
 🧩 System Design Fundamentals  
-
----
-
-## 💻 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,js,git,github,postman" />
-</p>
 
 ---
 
