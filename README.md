@@ -1,4 +1,6 @@
-# 👋🏽 Hey, I’m John  
+# 👋🏽 John — Backend Developer
+
+I build scalable backend systems and APIs that power real-world applications.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Scalable+APIs;Turning+Ideas+Into+Systems;Always+Learning+Always+Shipping" />
@@ -13,10 +15,22 @@
 
 ---
 
-## 🚀 What I’m Building  
-🔹 E-commerce Backend API (auth • payments • admin logic)  
-🔹 School Management System (automation + real users)  
-🔹 Finance Tracker API (analytics • user roles)  
+## 🚀 Selected Projects
+
+🔹 E-commerce Backend API
+
+Authentication • Payments • Admin system
+→ Built to handle real users and transactions
+
+🔹 School Management System
+
+Automates student records, reports, and workflows
+→ Designed for real-world deployment
+
+🔹 Finance Tracker API
+
+Income/expense tracking with analytics
+→ Focused on clean data handling and insights
 
 ---
 
@@ -56,6 +70,13 @@
 🤝 Collaborations on impactful projects  
 
 ---
+## Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="140"/>
+</p>
+
+
 
 ## 📫 Let’s Connect  
 📧 your-destade45@gmail.com  
