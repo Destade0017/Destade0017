@@ -1,7 +1,5 @@
 # 👋🏽 John — Backend Developer
 
-I build scalable backend systems and APIs that power real-world applications.
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Scalable+APIs;Turning+Ideas+Into+Systems;Always+Learning+Always+Shipping" />
 </p>
@@ -11,7 +9,8 @@ I build scalable backend systems and APIs that power real-world applications.
 ## ⚙️ About Me  
 🧑🏽‍💻 Backend Developer focused on real-world systems 
 🎓 Final-year Computer Science student 🇳🇬  
-🚀 I build APIs, handle logic, and make things run smoothly behind the scenes  
+🚀 I build scalable backend systems and APIs that power real-world applications.
+
 
 ---
 
@@ -19,7 +18,6 @@ I build scalable backend systems and APIs that power real-world applications.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,js,git,github,postman" />
 </p>
-
 
 ---
 
