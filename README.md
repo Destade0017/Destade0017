@@ -1,10 +1,7 @@
 # 👋🏽 John — Backend Developer
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Building+Scalable+APIs;Turning+Ideas+Into+Systems;Always+Learning+Always+Shipping" />
 </p>
-
----
 
 ## ⚙️ About Me  
 🧑🏽‍💻 Backend Developer focused on real-world systems 
@@ -40,7 +37,7 @@ Income/expense tracking with analytics
 
 ---
 
-## 🧠 Currently Leveling Up  
+## ⚙️ Engineering Focus
 🔐 Authentication & Authorization (JWT, bcrypt)  
 🗄️ Database Design (MongoDB • PostgreSQL)  
 ⚡ Clean, scalable backend architecture  
@@ -69,13 +66,6 @@ Income/expense tracking with analytics
 🤝 Collaborations on impactful projects  
 
 ---
-## Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Destade0017&show_icons=true&hide_border=true" height="140"/>
-</p>
-
-
 
 ## 📫 Let’s Connect  
 📧 your-destade45@gmail.com  
