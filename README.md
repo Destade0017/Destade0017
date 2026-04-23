@@ -73,7 +73,7 @@ Income/expense tracking with analytics
 ## Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Destade0017&show_icons=true&hide_border=true" height="140"/>
 </p>
 
 
