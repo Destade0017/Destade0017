@@ -68,7 +68,7 @@ Income/expense tracking with analytics
 ---
 
 ## 📫 Let’s Connect  
-📧 your-destade45@gmail.com  
+📧 destade45@gmail.com  
 🔗 LinkedIn: http://linkedin.com/in/john-adesuyi-572012348
 
 ---
